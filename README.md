@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FRONTEND: URL_Frontend
 # BACKEND: URL_Backend
 
@@ -51,3 +52,7 @@
     proxy_set_header Connection "Upgrade"; 
     proxy_http_version 1.1; 
 ## ============================================= ##
+=======
+# chitinshield
+es el chatbot 
+>>>>>>> b29fdc695d2db2391cfcb580c82c462b058d35ec
