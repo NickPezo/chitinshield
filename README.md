@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FRONTEND: URL_Frontend
 # BACKEND: URL_Backend
 
@@ -55,4 +54,4 @@
 =======
 # chitinshield
 es el chatbot 
->>>>>>> b29fdc695d2db2391cfcb580c82c462b058d35ec
+b29fdc695d2db2391cfcb580c82c462b058d35ec
